@@ -1,0 +1,15 @@
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\intro_cs.exe
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\intro_cs.deps.json
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\intro_cs.runtimeconfig.json
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\intro_cs.dll
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\ref\intro_cs.dll
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\bin\Debug\net6.0\intro_cs.pdb
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.csproj.AssemblyReference.cache
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.AssemblyInfoInputs.cache
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.AssemblyInfo.cs
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.csproj.CoreCompileInputs.cache
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.dll
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\ref\intro_cs.dll
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.pdb
+C:\Users\Saartes\Desktop\Учкеба\2\intro_cs\obj\Debug\net6.0\intro_cs.genruntimeconfig.cache
